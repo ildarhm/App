@@ -1,0 +1,5 @@
+[map "009ee475-3c20-31ed-96c9-6af82e8c9b28"]
+	excludePath = *.xml
+	object = 5c5dadc13426c13925e6f53ff8dad5babfbcb4ab
+	path = lib-for-tests
+	type = include + expand module
