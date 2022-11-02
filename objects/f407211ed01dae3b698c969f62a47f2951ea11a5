@@ -1,0 +1,10 @@
+[map "c6c9df30-8ef8-32fb-a11b-58f541bd6ce1"]
+	excludePath = *.xml
+	object = d20199369e0caf1e180466e6dce0fd41eeda6c5d
+	path = lib-for-tests
+	type = include + expand module
+[map "b598ce78-2a0c-31d7-bb6d-3a1ba53e860d"]
+	excludePath = *.xml
+	object = 7c612339546cdea50e6fc6ca6f83e145e37c175d
+	subtree = Take
+	type = include + expand tree
