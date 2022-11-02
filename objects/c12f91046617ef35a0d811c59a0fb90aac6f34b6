@@ -1,0 +1,20 @@
+[map "c4824b94-0619-3b67-a0f8-e2083f926865"]
+	excludePath = *.xml
+	object = c12f91046617ef35a0d811c59a0fb90aac6f34b6
+	subtree = Take
+	type = extract tree + exclude
+[map "6d882891-1fb5-3a66-bfbd-bb96f23df429"]
+	excludePath = *.xml
+	object = a0fc34429b404b9ef66da1c692081c6c27ee600b
+	subtree = Take
+	type = include + expand tree
+[map "6d296f0b-4968-3407-a2f4-0c66e0f338c4"]
+	excludePath = *.xml
+	object = 2ee95f89e6983e07e8d21bfadfc130fd7e160e12
+	subtree = Take
+	type = include + expand tree
+[map "69df111b-f6f4-3360-849b-03c8a9895978"]
+	excludePath = *.xml
+	object = a5522240487b9c7c4ad7f68f136fecbc75776f85
+	subtree = Take
+	type = include + expand tree

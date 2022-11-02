@@ -1,0 +1,15 @@
+[module "b42cfba8-34a6-3bd9-9d8f-d3f9b71de4aa"]
+	conflict = request-pull
+	excludePath = *.xml
+	path = lib-for-tests
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/large
+	subtree = Take
+	url = agnostic://ght/560721151
+[map "bd2f3cd1-2933-3f51-bacf-a75bb7ad9088"]
+	excludePath = *.xml
+	object = f23875e69ad55e918ca7d6fe08d5c6282a6c2a9a
+	path = lib-for-tests
+	stage = sync
+	type = extract module + exclude

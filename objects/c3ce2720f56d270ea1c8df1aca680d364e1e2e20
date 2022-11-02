@@ -1,0 +1,10 @@
+[map "a64796a6-2e61-3a87-81dc-c327471af7fa"]
+	excludePath = *.xml
+	object = ca21e9ea556854a3d887ba89a6d5162f049e3b2a
+	subtree = Take
+	type = include + expand tree
+[map "310dcbbc-d31c-31cc-a814-78f4a60896d1"]
+	excludePath = *.xml
+	object = a59576e10035a393da21e0ac748a544a574e1ced
+	subtree = Take
+	type = include + expand tree

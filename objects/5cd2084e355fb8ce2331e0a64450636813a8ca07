@@ -1,0 +1,5 @@
+[map "334a85d6-3337-3ba3-a7ef-7016aaadb309"]
+	excludePath = *.xml
+	object = ad828cd75ccfd4852a50f214dbdb8b8df73de45a
+	subtree = Take
+	type = extract tree + exclude

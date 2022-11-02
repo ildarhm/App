@@ -1,0 +1,5 @@
+[map "b7fe392c-e395-3011-a899-30f197a94e12"]
+	excludePath = *.xml
+	object = e24fcaa1ddb3356d22f276016b5d2b68e3c39df2
+	subtree = Take
+	type = include + expand tree
